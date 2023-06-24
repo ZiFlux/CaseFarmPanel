@@ -1,0 +1,2 @@
+token = 'token'
+phone = 'ownernumber'
